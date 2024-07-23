@@ -1,0 +1,16 @@
+.BlogView-cards{
+    width: 500px;
+    background-color: #A9C9FF;
+    background-image: linear-gradient(180deg, #A9C9FF 0%, #FFBBEC 100%);
+    margin: 4% 30%;
+    padding: 3%;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0 , 0, 0, 0.3);
+}
+.BlogView-author-details{
+    margin-bottom: 20px;
+}
+.BlogView-avtar{
+    border-radius: 50%;
+    margin-top: 10px;
+}
